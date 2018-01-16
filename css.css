@@ -22,7 +22,7 @@ body {
 /* Create three unequal columns that sits next to each other */
 .column {
     padding: 10px;
-    height: 200px; /* Should be removed. Only for demonstration */
+    
 }
 
 /* Left and right column */
