@@ -10,10 +10,11 @@ body {
 
 /* Style the header */
 .header {
-    background-color: rgba(196,166,121,1);
+    text-align: center;
+   /* background-color: rgba(196,166,121,1);*/
     width: 95%;
     padding: 20px;
-    text-align: center;
+    
 }
 
 /* Container for flexboxes */
