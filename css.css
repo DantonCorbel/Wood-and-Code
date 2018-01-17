@@ -4,12 +4,13 @@
 
 body {
     margin: 0;
+    background-color: color: rgba(172,127, 58,1);
 }
 
 /* Style the header */
 .header {
     background-color: #f1f1f1;
-    padding: 50px;
+    padding: 20px;
     text-align: center;
 }
 
