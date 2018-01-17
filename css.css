@@ -1,6 +1,5 @@
 * {
     box-sizing: border-box;
-    background-color: rgba(207,208, 195,1);
 }
 
 body {
@@ -11,10 +10,16 @@ body {
 /* Style the header */
 .header {
     text-align: center;
-   /* background-color: rgba(196,166,121,1);
-    width: 95%;*/
+   background-color: rgba(207,208, 195,1);
+   /* width: 95%;*/
     padding: 50px;
-    
+}
+
+h1 {
+  color: rgba(217, 208, 195, 1);
+  background-color: rgba(172,127, 58,1);
+    width: 95%;
+    margin: 10px, 10px, 0px, 10px;
 }
 
 /* Container for flexboxes */
