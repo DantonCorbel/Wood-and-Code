@@ -11,7 +11,7 @@ body {
 .header {
     background-color: #f1f1f1;
     padding: 20px;
-    margin: 20px;
+    margin: 10px 10px 0 10px;
     text-align: center;
     color: rgba(217,208,195,1);
     font-size: 50px;
