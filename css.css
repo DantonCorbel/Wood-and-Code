@@ -19,7 +19,7 @@ body {
 
 h1 {
   background-color: rgba(172,127, 58,1);
- 
+  margin: 20px;
 }
 
 /* Container for flexboxes */
